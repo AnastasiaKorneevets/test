@@ -12,5 +12,4 @@ My CV
 
 |date|place|
 |----|-----|
-|1212=1212| Belarusian State University of Informatics and Radioelectronics
-Specialization: Teacher-programmer|
+|1212=1212| Belarusian State University of Informatics and Radioelectronics. Specialization: Teacher-programmer|
