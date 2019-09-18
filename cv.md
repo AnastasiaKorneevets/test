@@ -3,10 +3,8 @@ My CV
 # Anastasiya Shautcova
 ## Education
 
-|Date | Place|
-|-----|------|
-|2015 – 2019 | Teacher-programmer
-               Belarusian State University of Informatics and Radioelectronics
-               Half-part time|
-|2013 – 2015 | Technician-programmer
-               Minsk State Higher Radio Technical College|
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
