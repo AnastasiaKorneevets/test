@@ -6,6 +6,11 @@ My CV
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600   
-hello|
+||hello|
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
+
+|date|place|
+|----|-----|
+|1212=1212| Belarusian State University of Informatics and Radioelectronics
+Specialization: Teacher-programmer|
