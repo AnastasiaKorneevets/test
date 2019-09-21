@@ -1,4 +1,4 @@
-# Anastasiya Shautcova
+# Anastasiya Shautsova
 
 ## Contact Info
 
@@ -9,7 +9,15 @@
 
 ## Summary 
 
-TBD
+I wanna be a billionaire so freakin' bad  
+Buy all of the things I never had  
+Uh, I wanna be on the cover of Forbes magazine  
+Smiling next to Oprah and the Queen  
+Oh every time I close my eyes  
+I see my name in shining lights  
+Yeah, a different city every night oh right  
+I swear the world better prepare  
+For when I'm a [billionaire](https://music.yandex.by/album/95355/track/846464)  
 
 ## Skills
 
